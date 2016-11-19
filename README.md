@@ -4,20 +4,20 @@ Random order. Please add data links.
 
 ## Pitches:
 
-1. WHO DRAWNS FIRST (Justin Salmon)
+1. WHO DROWNS FIRST (Justin Salmon)
 Using NYC elevation data assess which areas of the city will be under water if the water level rises.
 Data: on NYC.gov opendata
-**Deliverable**: An interactive map of NYC identifying underwated neighbourhoods as a function of water level (or a set of maps).
+**Deliverable**: An interactive map of NYC identifying underwater neighbourhoods as a function of sea level (or a set of maps).
 
 2. WHO IS MORE GENEROUS IN TIPPING? (Justin Salmon)
 Using NYC taxis dataset map tipping rate to origin-destinations & origin-destination socioeconomic descriptors.
 Data: NYC.gov
-**Deliverable**: An interactive map of NYC tipping genersity and a comparison map of socioeconomic status (or a set of maps).
+**Deliverable**: An interactive map of NYC tipping generosity and a comparison map of socioeconomic status (or a set of maps).
 
 3. SONIFICATION OF NYC URBAN DATA (Justin Salmon)
 Sonify an urban dataset, for example crime by area.
 Data: any NYC urban dataset 
-**Deliverable**: A sound map of NYC or a 2D interactive map where hovering generated sound
+**Deliverable**: A sound map of NYC or a 2D interactive map where hovering over an area sonifies the data from that area.
 
 4. HEAT LEAKING IN NIR UO DATA  (Mohit Sharma)
 Identify heat leaking windows in CUSP UP NIR data. Identify the reason of leak (e.g. AC) and measure heat leak in time
