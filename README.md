@@ -34,8 +34,12 @@ Identify heat leaking windows in CUSP UP NIR data. Identify the reason of leak (
 
 **5. WHO DONATED IN THE 2016 ELECTORAL CAMPAIGN (Sunny)**
 Map campaign donation and identify the socioeconomic status of the doners by are industries characteristics.
+-----Proj Title - Follow the Money----
 
 *Data*:
+a. Federal Election commission data (http://www.fec.gov/data/CandidateSummary.do?format=html)
+b. 270 to Win (http://www.270towin.com/)
+
 
 **Deliverable**: A map of donations and a set of comparative map of industry characteristics.
 
